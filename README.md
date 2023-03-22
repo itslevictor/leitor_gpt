@@ -8,5 +8,4 @@ Open in new tab (cntrl + Clique Esquerdo)
 |[Acesso a página](https://itslevictor.github.io/leitor_gpt/)|   
 -------------------------------------------------------------------
 
-| <div> <img href="https://github.com/itslevictor/leitor_gpt/blob/main/README.md" width=30 height = 30 src="https://www.computerhope.com/jargon/c/ctrl-key.png" /> <img href="https://github.com/itslevictor/leitor_gpt/blob/main/README.md" width=30 height = 30 src="https://img.finalfantasyxiv.com/lds/h/K/HW5NPzTD5Kr0bXYUDiTTmMkvlw.png" /></div> |
----------------------------------------------------------------------------------------
+<div> <img href="https://github.com/itslevictor/leitor_gpt/blob/main/README.md" width=30 height = 30 src="https://www.computerhope.com/jargon/c/ctrl-key.png" /> <img href="https://github.com/itslevictor/leitor_gpt/blob/main/README.md" width=30 height = 30 src="https://img.finalfantasyxiv.com/lds/h/K/HW5NPzTD5Kr0bXYUDiTTmMkvlw.png" /></div> 
