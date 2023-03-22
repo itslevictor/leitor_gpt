@@ -5,7 +5,7 @@
 
 Open in new tab (cntrl + Clique Esquerdo)
 
-|    |[Acesso a página](https://itslevictor.github.io/leitor_gpt/)|   
+|[Acesso a página](https://itslevictor.github.io/leitor_gpt/)|   
 -------------------------------------------------------------------
 
 <div>  
