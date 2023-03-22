@@ -6,9 +6,9 @@
 Open in new tab (cntrl + Clique Esquerdo)
 
 <div>
-<a href="https://github.com/itslevictor/leitor_gpt/blob/main/README.md" <img width=50 height = 50 src="https://www.computerhope.com/jargon/c/ctrl-key.png"/> </a>
+[<img alt="Ctrl button" width="50px" height="50px" src="https://www.computerhope.com/jargon/c/ctrl-key.png" />](https://github.com/itslevictor/leitor_gpt/blob/main/README.md)
   
-  <img href="https://github.com/itslevictor/leitor_gpt/blob/main/README.md" width=50 height = 50 src="https://www.computerhope.com/jargon/c/ctrl-key.png" /> <img href="https://github.com/itslevictor/leitor_gpt/blob/main/README.md" width=50 height = 50 src="https://img.finalfantasyxiv.com/lds/h/K/HW5NPzTD5Kr0bXYUDiTTmMkvlw.png" /></div>
+ <img href="https://github.com/itslevictor/leitor_gpt/blob/main/README.md" width=50 height = 50 src="https://www.computerhope.com/jargon/c/ctrl-key.png" /> <img href="https://github.com/itslevictor/leitor_gpt/blob/main/README.md" width=50 height = 50 src="https://img.finalfantasyxiv.com/lds/h/K/HW5NPzTD5Kr0bXYUDiTTmMkvlw.png" /></div>
 <br>
 
 [Acesso a página](https://itslevictor.github.io/leitor_gpt/)
