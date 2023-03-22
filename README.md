@@ -5,7 +5,7 @@
 
 Open in new tab (cntrl + Clique Esquerdo)
 
-<a href="google.com"><img onclick="return onimgclick(event)" src="sample.png"></img> HI</a>
+<a href="google.com"><img onclick="return onimgclick(event)" src="sample.png"></img></a>
 
 <div> <img width=50 height = 50 src="https://www.computerhope.com/jargon/c/ctrl-key.png" /> <img width=50 height = 50 src="https://img.finalfantasyxiv.com/lds/h/K/HW5NPzTD5Kr0bXYUDiTTmMkvlw.png" /></div>
 <br>
