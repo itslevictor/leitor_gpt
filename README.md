@@ -3,14 +3,11 @@
 
 #### Simples html puro, com imagens para utilizar o chat gpt e solicitar ele para ler. Alterarei o conteúdo de acordo com minha necessidade.
 
-Open in new tab (cntrl + Clique Esquerdo)
-
-|[Acesso a página](https://itslevictor.github.io/leitor_gpt/)|   
+<a href="https://itslevictor.github.io/leitor_gpt/" target="_blank">Acesso a página</a>
 -------------------------------------------------------------------
 
-<div> <img href="https://github.com/itslevictor/leitor_gpt/blob/main/README.md" width=30 height = 30 src="https://www.computerhope.com/jargon/c/ctrl-key.png" /> <img href="https://github.com/itslevictor/leitor_gpt/blob/main/README.md" width=30 height = 30 src="https://img.finalfantasyxiv.com/lds/h/K/HW5NPzTD5Kr0bXYUDiTTmMkvlw.png" /></div> 
-
 ## Melhor conversor até agora:
-[Acesso a página](https://tools.pdf24.org/pt/pdf-para-html#s=1684239178502)
+<a href="https://tools.pdf24.org/pt/pdf-para-html#s=1684239178502" target="_blank">Acesso ao conversor 1</a>
+
 ## Converte com pastas separadas:
-[Acesso a pagina](https://webtopdf.com/pt/pdf-to-html)
+<a href="https://webtopdf.com/pt/pdf-to-html" target="_blank">Acesso ao Conversor 2</a>
