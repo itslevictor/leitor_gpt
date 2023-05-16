@@ -3,6 +3,9 @@
 
 #### Simples html puro, com imagens para utilizar o chat gpt e solicitar ele para ler. Alterarei o conteúdo de acordo com minha necessidade.
 
+## Melhor conversor até agora:
+[Acesso a página](https://tools.pdf24.org/pt/pdf-para-html#s=1684239178502)
+
 Open in new tab (cntrl + Clique Esquerdo)
 
 |[Acesso a página](https://itslevictor.github.io/leitor_gpt/)|   
