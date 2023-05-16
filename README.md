@@ -10,6 +10,8 @@ para abrir em nova aba (cntrl + Clique Esquerdo)
 |[Acesso a página](https://itslevictor.github.io/leitor_gpt/)|   
 -------------------------------------------------------------------
 
+## Site que faz resumo:
+[Acesso a pagina](https://resoomer.com/pt/)
 
 ## Conversor para pagina unica:
 [Acesso a página](https://tools.pdf24.org/pt/pdf-para-html#s=1684239178502)
